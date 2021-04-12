@@ -13,5 +13,6 @@ I am fed up with this and wanna get better at it :)
     - [backtobackswe](https://backtobackswe.com/)
     - [interviewcake](https://www.interviewcake.com/)
     - Practice in Leetcode
+    - EPI in Python
 
 - Will be using python for all of my solutions for now.
